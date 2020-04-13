@@ -1,4 +1,6 @@
 
+#include<stdlib.h>
+
 #define BUFF_UNIT   uint32_t
 
 typedef struct  {
