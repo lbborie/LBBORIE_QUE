@@ -9,8 +9,6 @@ typedef struct  {
     uint32_t tail;
 }QUE_STRUCT;
 
-QUE_STRUCT que_1;
-
 #define MAX_BUFF_SIZE   9600
 
 typedef enum {
